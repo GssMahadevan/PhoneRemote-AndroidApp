@@ -16,7 +16,7 @@ Android Appliction to Control the IR based devices via WiFi
  ```
  
 ### Change settings
- * Change the http URL of your python-remote-server (https://github.com/GssMahadevan/PhoneRemote-Server) in settings page
+ * Change the http URL of your python-remote-server (https://github.com/GssMahadevan/PhoneRemote-Server) in settings page of Android-App named as 'TvRemote'
  
 ## Dependent Projects
  * https://github.com/GssMahadevan/PhoneRemote-Server
