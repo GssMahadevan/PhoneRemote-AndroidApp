@@ -14,7 +14,7 @@ import retrofit2.Retrofit;
 
 public class HttpHelper {
     private static final String TAG="HttpHelper";
-    public static final  String URL="http://chip2.local.net:8088/";
+    public static final  String URL="http://your_python_phone_remote_server_:port/";
     private final Context ctx;
     private Retrofit retrofit;
     ApiInterface apiService ;
