@@ -28,9 +28,10 @@ Android Appliction to Control the IR based devices via WiFi
  
  ```
 curl http://your_python_server_ipurl/ir/change?code=power&model=tv
-
 ```
+
 Where 'power' and 'tv' are defined 'PhoneRemote-Server/model2file.properties' project PhoneRemote-ESPIRSender
+
 
 ## Add new codes for new TV/IR-Appliance:
  * Follow guide lines as in 
