@@ -19,8 +19,8 @@ Android Appliction to Control the IR based devices via WiFi
  * Change the http URL of your python-remote-server (https://github.com/GssMahadevan/PhoneRemote-Server) in settings page of Android-App named as 'TvRemote'
  
 ## Dependent Projects
- * https://github.com/GssMahadevan/PhoneRemote-Server
- * https://github.com/GssMahadevan/PhoneRemote-ESPIRSender
+ * [PhoneRemote-Server](https://github.com/GssMahadevan/PhoneRemote-Server)
+ * [PhoneRemote-ESPIRSender](https://github.com/GssMahadevan/PhoneRemote-ESPIRSender)
  
 
 ## UT
@@ -30,11 +30,11 @@ Android Appliction to Control the IR based devices via WiFi
 curl http://your_python_server_ipurl/ir/change?code=power&model=tv
 ```
 
-Where 'power' and 'tv' are defined 'PhoneRemote-Server/model2file.properties' project PhoneRemote-ESPIRSender
+Where 'power' and 'tv' are defined [PhoneRemote-Server/model2file.properties](https://github.com/GssMahadevan/PhoneRemote-Server/blob/master/model2file.properties)
 
 
 ## Add new codes for new TV/IR-Appliance:
  * Follow guide lines as in 
-  * https://github.com/GssMahadevan/PhoneRemote-ESPIRSender
-  * https://github.com/GssMahadevan/PhoneRemote-Server
+  * [PhoneRemote-Server](https://github.com/GssMahadevan/PhoneRemote-Server)
+  * [PhoneRemote-ESPIRSender](https://github.com/GssMahadevan/PhoneRemote-ESPIRSender)
 
