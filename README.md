@@ -24,7 +24,7 @@ Android Appliction to Control the IR based devices via WiFi
  
 
 ## UT
- * Test ESP working or not by using curl command like:
+ * Test HTTP communications with python server working or not by using curl command like:
  
  ```
 curl http://your_python_server_ipurl/ir/change?code=power&model=tv
