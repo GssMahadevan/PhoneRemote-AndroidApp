@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66f6f2f2</color>
+    <color name="blue">#a0a0e0</color>
+    <color name="transparent">#80000000</color>
+
+    <color name="red1">#ff4400</color>
+    <color name="green1">#00ff88</color>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/options" >
+        <EditTextPreference
+            android:title="@string/PhoneRemoteServerURL"
+            android:summary="@string/PhoneRemoteServerURLSum"
+            android:key="http_url_base"
+            android:defaultValue="http://chip2.local.net:8088/"
+            />
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

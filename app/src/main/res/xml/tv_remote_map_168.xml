@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maps xmlns:android="http://schemas.android.com/apk/res/android">
+
+<map name="map168">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:gssm -->
+<area shape="rect" coords="19,18,50,38" alt="power" target="power" href="power"  id="@+id/m1_power" />
+<area shape="rect" coords="118,19,145,37" alt="mute" target="mute" href="mute"  id="@+id/m1_mute" />
+<area shape="circle" coords="35,63,15" alt="b1" target="b1" href="b1"  id="@+id/m1_b1" />
+<area shape="circle" coords="84,65,15" alt="b2" target="b2" href="b2"  id="@+id/m1_b2" />
+<area shape="circle" coords="132,67,15" alt="b3" target="b3" href="b3"  id="@+id/m1_b3" />
+<area shape="circle" coords="35,101,13" alt="b4" target="b4" href="b4"  id="@+id/m1_b4" />
+<area shape="circle" coords="85,101,15" alt="b5" target="b5" href="b5"  id="@+id/m1_b5" />
+<area shape="circle" coords="131,102,14" alt="b6" target="b6" href="b6"  id="@+id/m1_b6" />
+<area shape="circle" coords="36,139,15" alt="b7" target="b7" href="b7"  id="@+id/m1_b7" />
+<area shape="circle" coords="85,139,15" alt="b8" target="b8" href="b8"  id="@+id/m1_b8" />
+<area shape="circle" coords="130,138,13" alt="b9" target="b9" href="b9"  id="@+id/m1_b9" />
+<area shape="circle" coords="35,176,15" alt="text" target="text" href="text"  id="@+id/m1_text" />
+<area shape="circle" coords="84,179,15" alt="b0" target="b0" href="b0"  id="@+id/m1_b0" />
+<area shape="circle" coords="131,179,15" alt="sub" target="sub" href="sub"  id="@+id/m1_sub" />
+<area shape="circle" coords="29,217,11" alt="menu" target="menu" href="menu"  id="@+id/m1_menu" />
+<area shape="circle" coords="141,218,14" alt="guide" target="guide" href="guide"  id="@+id/m1_guide" />
+<area shape="circle" coords="83,265,16" alt="ok" target="ok" href="ok"  id="@+id/m1_ok" />
+<area shape="rect" coords="16,342,48,368" alt="ch_up" target="ch_up" href="ch_up"  id="@+id/m1_ch_up" />
+<area shape="rect" coords="114,340,150,369" alt="vol_up" target="vol_up" href="vol_up"  id="@+id/m1_vol_up" />
+<area shape="rect" coords="13,378,47,405" alt="ch_down" target="ch_down" href="ch_down"  id="@+id/m1_ch_down" />
+<area shape="rect" coords="117,377,147,405" alt="vol_down" target="vol_down" href="vol_down"  id="@+id/m1_vol_down" />
+<area shape="rect" coords="14,423,37,438" alt="red" target="red" href="red"  id="@+id/m1_red" />
+<area shape="rect" coords="50,422,78,438" alt="green" target="green" href="green"  id="@+id/m1_green" />
+<area shape="rect" coords="89,423,112,440" alt="yellow" target="yellow" href="yellow"  id="@+id/m1_yellow" />
+<area shape="rect" coords="124,423,153,437" alt="blue" target="blue" href="blue"  id="@+id/m1_blue" />
+<area shape="rect" coords="67,337,96,355" alt="reverse" target="reverse" href="reverse"  id="@+id/m1_reverse" />
+<area shape="rect" coords="68,364,96,381" alt="pause" target="pause" href="pause"  id="@+id/m1_pause" />
+<area shape="rect" coords="65,392,97,406" alt="forward" target="forward" href="forward"  id="@+id/m1_forward" />
+<area shape="circle" coords="29,314,11" alt="enter" target="enter" href="enter"  id="@+id/m1_enter" />
+<area shape="circle" coords="136,313,12" alt="i" target="i" href="i"  id="@+id/m1_i" />
+<area shape="poly" coords="51,225,77,205,95,207,111,227,102,237,84,231,62,238" alt="up" target="up" href="up"  id="@+id/m1_up" />
+<area shape="poly" coords="109,245,120,234,140,258,141,271,120,290,118,292,108,284,120,263" alt="right" target="right" href="right"  id="@+id/m1_right" />
+<area shape="poly" coords="55,303,61,291,84,298,100,290,109,303,82,326,75,326" alt="down" target="down" href="down"  id="@+id/m1_down" />
+<area shape="poly" coords="21,262,42,236,54,246,47,266,56,284,41,293" alt="left" target="left" href="left"  id="@+id/m1_left" />
+</map>
+</maps>

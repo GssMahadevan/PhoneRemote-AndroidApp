@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maps xmlns:android="http://schemas.android.com/apk/res/android">
+
+<map name="map"  >
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:gssm -->
+<area shape="rect" coords="122,117,293,227" alt="power" href="power"  id="@+id/m0_m0_power"/>
+<area shape="rect" coords="711,118,885,221" alt="mute" href="mute"  id="@+id/m0_mute" />
+<area shape="circle" coords="219,402,79" alt="b1" href="b1"  id="@+id/m0_b1"/>
+<area shape="circle" coords="505,394,81" alt="b2" href="b2"  id="@+id/m0_b2"/>
+<area shape="circle" coords="800,391,80" alt="b3" href="b3"  id="@+id/m0_b3"/>
+<area shape="circle" coords="232,622,83" alt="b4" href="b4"  id="@+id/m0_b4"/>
+<area shape="circle" coords="507,621,84" alt="b5" href="b5"  id="@+id/m0_b5"/>
+<area shape="circle" coords="798,617,84" alt="b6" href="b6"  id="@+id/m0_b6"/>
+<area shape="circle" coords="228,843,84" alt="b7" href="b7"  id="@+id/m0_b7"/>
+<area shape="circle" coords="519,841,86" alt="b8" href="b8"  id="@+id/m0_b8"/>
+<area shape="circle" coords="808,839,85" alt="b9" href="b9"  id="@+id/m0_b9"/>
+<area shape="circle" coords="229,1060,85" alt="text" href="text"  id="@+id/m0_text"/>
+<area shape="circle" coords="519,1057,84" alt="b0" href="b0"  id="@+id/m0_b0"/>
+<area shape="circle" coords="810,1058,83" alt="sub" href="sub"  id="@+id/m0_sub"/>
+<area shape="circle" coords="205,1317,73" alt="menu" href="menu"  id="@+id/m0_menu"/>
+<area shape="circle" coords="841,1303,69" alt="guide" href="guide"  id="@+id/m0_guide"/>
+<area shape="poly" coords="366,1366,453,1276,497,1257,537,1250,577,1268,606,1290,633,1317,666,1348,686,1363,642,1417,634,1422,572,1394,517,1387,467,1388,440,1408,415,1418,410,1425,361,1384,364,1367,364,1366,381,1353,379,1351" alt="up" href="up"  id="@+id/m0_up"/>
+<area shape="poly" coords="185,1574,229,1505,290,1450,297,1447,343,1486,329,1524,315,1567,316,1604,317,1647,352,1707,308,1757,256,1715,198,1653,187,1607,187,1568" alt="left" href="left"  id="@+id/m0_left"/>
+<area shape="poly" coords="702,1474,737,1436,821,1510,853,1552,861,1599,858,1627,823,1676,792,1712,760,1742,750,1748,700,1710,717,1665,729,1643,733,1619,733,1588,729,1552,698,1487,710,1463" alt="right" href="right"  id="@+id/m0_right"/>
+<area shape="poly" coords="371,1811,407,1772,470,1796,513,1804,545,1802,585,1795,623,1770,641,1772,684,1808,657,1852,612,1896,582,1923,551,1934,507,1938,469,1918,415,1869,368,1820,373,1808" alt="down" href="down"  id="@+id/m0_down"/>
+<area shape="circle" coords="529,1599,96" alt="ok" href="ok"  id="@+id/m0_ok"/>
+<area shape="circle" coords="209,1900,62" alt="enter" href="enter"  id="@+id/m0_enter"/>
+<area shape="circle" coords="854,1882,72" alt="i" href="i"  id="@+id/m0_i"/>
+<area shape="poly" coords="144,2129,172,2071,224,2049,260,2055,298,2080,324,2115,326,2209,317,2220,248,2223,143,2226,144,2213" alt="ch_up" href="ch_up"  id="@+id/m0_ch_up"/>
+<area shape="poly" coords="744,2201,743,2100,768,2057,820,2031,893,2048,924,2089,928,2208" alt="vol_up" href="vol_up"  id="@+id/m0_vol_up"/>
+<area shape="poly" coords="140,2280,326,2274,328,2402,288,2444,223,2453,171,2432,145,2384" alt="ch_down" href="ch_down"  id="@+id/m0_ch_down"/>
+<area shape="poly" coords="743,2269,926,2262,929,2380,884,2429,833,2439,764,2411,745,2372" alt="vol_down" href="vol_down"  id="@+id/m0_vol_down"/>
+<area shape="rect" coords="436,2043,629,2128" alt="reverse" href="reverse"  id="@+id/m0_reverse"/>
+<area shape="rect" coords="443,2196,624,2285" alt="pause" href="pause"  id="@+id/m0_pause"/>
+<area shape="rect" coords="439,2349,633,2438" alt="forward" href="forward"  id="@+id/m0_forward"/>
+<area shape="rect" coords="123,2554,280,2646" alt="red" href="red"  id="@+id/m0_red"/>
+<area shape="rect" coords="344,2545,505,2641" alt="green" href="green"  id="@+id/m0_green"/>
+<area shape="rect" coords="585,2545,723,2636" alt="yellow" href="yellow"  id="@+id/m0_yellow"/>
+<area shape="rect" coords="804,2536,948,2631" alt="blue" href="blue"  id="@+id/m0_blue"/>
+</map>
+</maps>
